@@ -25,6 +25,6 @@ class Solution:
 
 if __name__ == "__main__":
     solution = Solution()
-    result = solution.isHappy(15)
+    result = solution.isHappy(19)
     print (result)
         
