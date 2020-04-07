@@ -10,4 +10,4 @@ Challange takes place on [leetcode.com](https://leetcode.com/) and runs from 1 t
 | 4 | [Move zeroes](https://leetcode.com/problems/move-zeroes/) | [Python](https://github.com/MateuszKudla/30-day-leet-coding-challange/blob/master/day-4/move-zeroes.py) |
 | 5 | [Best time to buy and sell stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Python](https://github.com/MateuszKudla/30-day-leet-coding-challange/blob/master/day-5/best-time-to-buy-and-sell-stock-ii.py) |
 | 6 | [Group anagrams](https://leetcode.com/problems/group-anagrams/) | [Python](https://github.com/MateuszKudla/30-day-leet-coding-challange/blob/master/day-6/group-anagrams.py) |
-
+| 7 | Counting Elements | [Python](https://github.com/MateuszKudla/30-day-leet-coding-challange/blob/master/day-7/counting-elements.py) |
