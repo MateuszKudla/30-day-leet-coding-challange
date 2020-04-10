@@ -13,3 +13,4 @@ Challange takes place on [leetcode.com](https://leetcode.com/) and runs from 1 t
 | 7 | Counting Elements | [Python](https://github.com/MateuszKudla/30-day-leet-coding-challange/blob/master/day-7/counting-elements.py) |
 | 8 | [Middle of the linked list](https://leetcode.com/problems/middle-of-the-linked-list/) | [Python](https://github.com/MateuszKudla/30-day-leet-coding-challange/blob/master/day-8/middle-of-the-linked-list.py) |
 | 9 | [Backspace string compare](https://leetcode.com/problems/backspace-string-compare/) | [Python](https://github.com/MateuszKudla/30-day-leet-coding-challange/blob/master/day-9/backspace-string-compare.py) | Easy |
+| 10 | [Min stack](https://leetcode.com/problems/min-stack/) | [Python](https://github.com/MateuszKudla/30-day-leet-coding-challange/blob/master/day-10/min-stack.py) | Easy |
