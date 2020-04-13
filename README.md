@@ -12,7 +12,8 @@ Challange takes place on [leetcode.com](https://leetcode.com/) and runs from 1 t
 | 6 | [Group anagrams](https://leetcode.com/problems/group-anagrams/) | [Python](https://github.com/MateuszKudla/30-day-leet-coding-challange/blob/master/day-6/group-anagrams.py) |
 | 7 | Counting Elements | [Python](https://github.com/MateuszKudla/30-day-leet-coding-challange/blob/master/day-7/counting-elements.py) |
 | 8 | [Middle of the linked list](https://leetcode.com/problems/middle-of-the-linked-list/) | [Python](https://github.com/MateuszKudla/30-day-leet-coding-challange/blob/master/day-8/middle-of-the-linked-list.py) |
-| 9 | [Backspace string compare](https://leetcode.com/problems/backspace-string-compare/) | [Python](https://github.com/MateuszKudla/30-day-leet-coding-challange/blob/master/day-9/backspace-string-compare.py) | Easy |
-| 10 | [Min stack](https://leetcode.com/problems/min-stack/) | [Python](https://github.com/MateuszKudla/30-day-leet-coding-challange/blob/master/day-10/min-stack.py) | Easy |
-| 11 | [Diameter of binary tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [Python](https://github.com/MateuszKudla/30-day-leet-coding-challange/blob/master/day-11/diameter-of-binary-tree.py) | Easy |
-| 12 | [Last stone weight](https://leetcode.com/problems/last-stone-weight/) | [Python](https://github.com/MateuszKudla/30-day-leet-coding-challange/blob/master/day-12/last-stone-weight.py) | Easy |
+| 9 | [Backspace string compare](https://leetcode.com/problems/backspace-string-compare/) | [Python](https://github.com/MateuszKudla/30-day-leet-coding-challange/blob/master/day-9/backspace-string-compare.py) |
+| 10 | [Min stack](https://leetcode.com/problems/min-stack/) | [Python](https://github.com/MateuszKudla/30-day-leet-coding-challange/blob/master/day-10/min-stack.py) |
+| 11 | [Diameter of binary tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [Python](https://github.com/MateuszKudla/30-day-leet-coding-challange/blob/master/day-11/diameter-of-binary-tree.py) |
+| 12 | [Last stone weight](https://leetcode.com/problems/last-stone-weight/) | [Python](https://github.com/MateuszKudla/30-day-leet-coding-challange/blob/master/day-12/last-stone-weight.py) |
+| 13 | [Contiguous array](https://leetcode.com/problems/contiguous-array/) | [Python](https://github.com/MateuszKudla/30-day-leet-coding-challange/blob/master/day-13/contiguous-array.py) |
