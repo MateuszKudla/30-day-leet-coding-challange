@@ -17,3 +17,4 @@ Challange takes place on [leetcode.com](https://leetcode.com/) and runs from 1 t
 | 11 | [Diameter of binary tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [Python](https://github.com/MateuszKudla/30-day-leet-coding-challange/blob/master/day-11/diameter-of-binary-tree.py) |
 | 12 | [Last stone weight](https://leetcode.com/problems/last-stone-weight/) | [Python](https://github.com/MateuszKudla/30-day-leet-coding-challange/blob/master/day-12/last-stone-weight.py) |
 | 13 | [Contiguous array](https://leetcode.com/problems/contiguous-array/) | [Python](https://github.com/MateuszKudla/30-day-leet-coding-challange/blob/master/day-13/contiguous-array.py) |
+| 14 | Perform string shifts | [Python](https://github.com/MateuszKudla/30-day-leet-coding-challange/blob/master/day-14/perform-string-shifts.py) |
