@@ -21,3 +21,4 @@ Challange takes place on [leetcode.com](https://leetcode.com/) and runs from 1 t
 | 15 | [Product of array except self](https://leetcode.com/problems/product-of-array-except-self/) | [Python](https://github.com/MateuszKudla/30-day-leet-coding-challange/blob/master/day-15/product-of-array-except-self.py) |
 | 16 | [Valid parenthesis string](https://leetcode.com/problems/valid-parenthesis-string/) | [Python](https://github.com/MateuszKudla/30-day-leet-coding-challange/blob/master/day-16/valid-parenthesis-string.py) |
 | 17 | [Number of islands](https://leetcode.com/problems/number-of-islands/) | [Python](https://github.com/MateuszKudla/30-day-leet-coding-challange/blob/master/day-17/number-of-islands.py) |
+| 18 | [Minimum path sum](https://leetcode.com/problems/minimum-path-sum/) | [Python](https://github.com/MateuszKudla/30-day-leet-coding-challange/blob/master/day-18/minimum-path-sum.py) |
