@@ -23,3 +23,4 @@ Challange takes place on [leetcode.com](https://leetcode.com/) and runs from 1 t
 | 17 | [Number of islands](https://leetcode.com/problems/number-of-islands/) | [Python](https://github.com/MateuszKudla/30-day-leet-coding-challange/blob/master/day-17/number-of-islands.py) |
 | 18 | [Minimum path sum](https://leetcode.com/problems/minimum-path-sum/) | [Python](https://github.com/MateuszKudla/30-day-leet-coding-challange/blob/master/day-18/minimum-path-sum.py) |
 | 19 | [Search in rotated sorted array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Python](https://github.com/MateuszKudla/30-day-leet-coding-challange/blob/master/day-19/search-in-rotated-sorted-array.py) |
+| 20 | [Construct binary search tree from preorder traversal](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Python](https://github.com/MateuszKudla/30-day-leet-coding-challange/blob/master/day-20/search-in-rotated-sorted-array.py) |
