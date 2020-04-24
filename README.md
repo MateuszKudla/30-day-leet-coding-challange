@@ -27,3 +27,4 @@ Challange takes place on [leetcode.com](https://leetcode.com/) and runs from 1 t
 | 21 | Left most column with at least a one | [Python](https://github.com/MateuszKudla/30-day-leet-coding-challange/blob/master/day-21/leftmost-column-with-at-least-a-one.py) |
 | 22 | [Subarray sum equals k](https://leetcode.com/problems/subarray-sum-equals-k/) | [Python](https://github.com/MateuszKudla/30-day-leet-coding-challange/blob/master/day-22/subarray-sum-equals-k.py) |
 | 23 | [Bitwise and of numbers range](https://leetcode.com/problems/bitwise-and-of-numbers-range/) | [Python](https://github.com/MateuszKudla/30-day-leet-coding-challange/blob/master/day-23/bitwise-and-of-numbers-range.py) |
+| 24 | [LRU cache](https://leetcode.com/problems/lru-cache/) | [Python](https://github.com/MateuszKudla/30-day-leet-coding-challange/blob/master/day-24/lru-cache.py) |
