@@ -31,3 +31,4 @@ Challange takes place on [leetcode.com](https://leetcode.com/) and runs from 1 t
 | 25 | [Jump game](https://leetcode.com/problems/jump-game/) | [Python](https://github.com/MateuszKudla/30-day-leet-coding-challange/blob/master/day-25/jump-game.py) |
 | 26 | [Longest common subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [Python](https://github.com/MateuszKudla/30-day-leet-coding-challange/blob/master/day-26/longest-common-subsequence.py) |
 | 27 | [Maximal square](https://leetcode.com/problems/maximal-square/) | [Python](https://github.com/MateuszKudla/30-day-leet-coding-challange/blob/master/day-27/maximal-square.py) |
+| 28 | First unique number | [Python](https://github.com/MateuszKudla/30-day-leet-coding-challange/blob/master/day-28/first-unique-number.py) |
