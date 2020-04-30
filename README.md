@@ -33,3 +33,4 @@ Challange takes place on [leetcode.com](https://leetcode.com/) and runs from 1 t
 | 27 | [Maximal square](https://leetcode.com/problems/maximal-square/) | [Python](https://github.com/MateuszKudla/30-day-leet-coding-challange/blob/master/day-27/maximal-square.py) |
 | 28 | First unique number | [Python](https://github.com/MateuszKudla/30-day-leet-coding-challange/blob/master/day-28/first-unique-number.py) |
 | 29 | [Binary tree maximum path sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [Python](https://github.com/MateuszKudla/30-day-leet-coding-challange/blob/master/day-29/binary-tree-maximum-path-sum.py) |
+| 21 | Check if a string is a valid sequence from root to leaves path in a binary tree | [Python](https://github.com/MateuszKudla/30-day-leet-coding-challange/blob/master/day-30/check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree.py) |
